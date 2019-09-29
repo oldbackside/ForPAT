@@ -25,7 +25,7 @@ public class 四数之和 {
 	    	    		 d--;
 	    	    	}
 	    	    	else if(sum<target) {
-	    	    	    //  while(c<d&&nums[c]==nums[c+1]) c++;
+	    	    	    //  while(c<d&&nums[c]==nums[c+1]) c++;没有
 	    	    	     c++;
 	    	    	}
 	    	    	else {
